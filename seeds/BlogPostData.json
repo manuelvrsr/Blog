@@ -1,0 +1,13 @@
+[
+  {
+    "title": "JavaScript",
+    "description": "JavaScript is cool."
+  },
+  {
+    "title": "ChartJS",
+    "description": "ChartJs allows you to make charts with ease."  },
+  {
+    "title": "Bootstrap",
+    "description": "allows you to easily style websites. "
+  }
+]
